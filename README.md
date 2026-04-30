@@ -1,6 +1,6 @@
 **Hi 👋 I'm Pranav Mane**
 
-🎯 Aspiring Data Analyst & Software Developer
+🎯 Aspiring Data Analystic
 
 **Skills**
 
@@ -25,4 +25,4 @@ Jupyter Notebook
 Data Visualization
 Advanced SQL
 Machine Learning Basics
-**Contact** 📧 "pranavmane110@gmail.com" (mailto: pranavmane110@gmail.com)
+**Contact** 📧 "pranavmane110@gmail.com" (mail to: pranavmane110@gmail.com)
